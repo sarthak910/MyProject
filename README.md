@@ -1,1 +1,1 @@
-# MyProject
+# Puppeteer POC for Automation testing
